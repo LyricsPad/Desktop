@@ -1,0 +1,10 @@
+Usefull resources and references:
+https://channel9.msdn.com/coding4fun/articles/Generating-Sound-Waves-with-C-Wave-Oscillators
+https://www.codeproject.com/Articles/4838/WaveControl
+https://www.codeproject.com/Articles/31935/Draw-into-sound
+https://www.codeproject.com/Articles/20025/Sound-visualizer-in-C
+https://www.codeproject.com/Articles/15786/Fundamentals-of-Sound-How-to-Make-Music-out-of-Not
+http://tiny.systems/software/soundProgrammer/WavFormatDocs.pdf
+
+but im convinced this is what will end up being used. seems like best route:
+http://naudio.codeplex.com/
